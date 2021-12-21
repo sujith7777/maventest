@@ -4,9 +4,9 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>mavengid</groupId>
+  <groupId>mvngid</groupId>
   <artifactId>mvnafd</artifactId>
-  <version>mvnsnap</version>
+  <version>mvnversion</version>
 
   <name>devops</name>
   <!-- FIXME change it to the project's website -->
@@ -72,5 +72,5 @@
       </plugins>
     </pluginManagement>
   </build>
-	<finalname>devops</finalname>
+  <finalname>devops</finalname>
 </project>
